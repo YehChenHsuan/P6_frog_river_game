@@ -1,4 +1,4 @@
-{
+window.SENTENCES_AUDIO_MAP = {
   "Letter Nn. Sound n. Find the word that starts with Nn.": "assets/audios/sentences/frog_prompt_nn.mp3",
   "Letter Nn. Sound /n/. Find the word that starts with Nn.": "assets/audios/sentences/frog_prompt_nn.mp3",
   "Letter Nn. Find the word that starts with Nn": "assets/audios/sentences/frog_intro_nn.mp3",
@@ -21,4 +21,4 @@
   "The clever cat likes to drink fresh water. What does the animal do?": "assets/audios/sentences/frog_act_2154908d.mp3",
   "What can he do to his dog? He can pat his gentle dog on the head.": "assets/audios/sentences/frog_act_e2a266c9.mp3",
   "He can pat his gentle dog on the head. What can he do to his dog?": "assets/audios/sentences/frog_act_e2a266c9.mp3"
-}
+};
